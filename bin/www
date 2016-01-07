@@ -8,6 +8,8 @@ var app = require('../app');
 var debug = require('debug')('e-life:server');
 var http = require('http');
 
+//var life = require('../lib/life-engine');
+
 /**
  * Get port from environment and store in Express.
  */
